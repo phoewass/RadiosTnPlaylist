@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:0,Mosaique FM
+http://radio.mosaiquefm.net:8000/mosalive
+#EXTINF:0,Express FM
+http://stream6.tanitweb.com/expressfm
+#EXTINF:0,Chems FM
+http://stream6.tanitweb.com/shems
