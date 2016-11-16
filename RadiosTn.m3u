@@ -8,3 +8,5 @@ http://stream6.tanitweb.com/expressfm
 http://stream6.tanitweb.com/shems
 #EXTINF:0,Radio IFM
 http://5.135.138.182:8000/direct
+#EXTINF:0,Radio MED
+http://stream6.tanitweb.com/radiomed
