@@ -6,3 +6,5 @@ http://radio.mosaiquefm.net:8000/mosalive
 http://stream6.tanitweb.com/expressfm
 #EXTINF:0,Shems FM
 http://stream6.tanitweb.com/shems
+#EXTINF:0,Radio IFM
+http://5.135.138.182:8000/direct
